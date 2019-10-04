@@ -15,7 +15,7 @@ test-GinkgoX created by GitHub Classroom
 
 ##### examples:
 
-keywords = '国庆 and (阅兵 or 中国)
+keywords = '国庆 and (阅兵 or 中国)'
 
 ![result](./result.png)
 
